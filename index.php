@@ -31,7 +31,7 @@ if ($_GET['city']) {
 
     <style type="text/css">
       html { 
-                background: url(cityweather.jpeg) no-repeat center center fixed; 
+                background: url('city-weather.jpg') no-repeat center center fixed; 
                 -webkit-background-size: cover;
                 -moz-background-size: cover;
                 -o-background-size: cover;
